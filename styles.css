@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+}
+
+div {
+  align-self: auto;
+  border: solid 1px #563015;
+  max-width: fit-content;
+  height: fit-content;
+  height: 133px;
+  border-radius: 10px;
+}
+
+p {
+  font-size: 12px;
+  text-align: center;
+  font-weight: 700;
+  margin: 17px, 0px, 11px, 0px;
+}
+
+img {
+  width: 153px;
+  border-bottom-left-radius: 9px;
+  border-bottom-right-radius: 9px;
+}
+.card:hover {
+  box-shadow: 2px 4px 10px 0px rgba(0, 0, 0, 0.3);
+}
